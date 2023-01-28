@@ -1,4 +1,4 @@
-// Não podemos variáveis com palavras reservadas pelo JS
+// Não podemos criar variáveis com palavras reservadas pelo JS
 // Variáveis precisam ter nome com significados
 // Não pode começar o nome de uma variável com número
 // Não podem conter espaços ou traços
